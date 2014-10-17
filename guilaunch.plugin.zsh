@@ -1,0 +1,3 @@
+function guilaunch() {
+    ( $@ &> /dev/null &)
+}
