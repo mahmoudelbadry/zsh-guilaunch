@@ -1,3 +1,3 @@
-function guilaunch() {
+function launch() {
     ( $@ &> /dev/null &)
 }
